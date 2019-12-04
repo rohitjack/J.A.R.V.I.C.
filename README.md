@@ -18,7 +18,7 @@ Install tensorflow, numpy, pickle, nltk and sklearn
 ## To run JARVIC:
 
 ~~~~ 
-$git clone https://github.com/RKJenamani/J.A.R.V.I.C..git 
+$git clone https://github.com/rohitjack/J.A.R.V.I.C..git 
 $cd J.A.R.V.I.C.
 $python3 chatbot.py --mysqlpass="password of your mysql"
 ~~~~
