@@ -22,9 +22,6 @@ $git clone https://github.com/rohitjack/J.A.R.V.I.C..git
 $cd J.A.R.V.I.C.
 $python3 chatbot.py --mysqlpass="password of your mysql"
 ~~~~
-# J.A.R.V.I.C.
-Just A Rather Very Intelligent Chatbot
-
 To run Front End :
 - set the host names in server.py and Client.java files.
 - compile the Client.java 
